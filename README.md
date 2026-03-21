@@ -1,3 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nodepec&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="nodepec's github stats" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=nodepec&theme=react&show_icons=true&hide_border=true&count_private=true" alt="nodepec's GitHub Stats" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodepec&layout=compact&theme=react&hide_border=true" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodepec&theme=react&show_icons=true&hide_border=true&layout=compact" alt="nodepec's GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com?user=nodepec&theme=react&hide_border=true" alt="nodepec's GitHub Stats" />
